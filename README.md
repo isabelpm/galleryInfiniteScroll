@@ -1,12 +1,9 @@
-# Gallery
+# Gallery Infinite Scroll
 
+<img width="1273" alt="GALLERY" src="https://user-images.githubusercontent.com/67895734/120027095-3f023700-bff3-11eb-9660-7827eeb5abed.png">
 
 _The user can see a grid of images that fill the screen on load
 As the user scrolls the browser, more images are loaded dynamically_
-
-## [codesandbox]) ⌨️
-
-## [Web]() 💻
 
 ## Pre-Requisitos 🔧
 
@@ -24,7 +21,7 @@ Tener instalado un editor de código:
 
 ## Instalación 🔧
 
-* Descargar todos los archivos y ejectuar el siguiente cóidigo en la terminal:
+* Descargar todos los archivos y ejectuar el siguiente código en la terminal:
 
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
